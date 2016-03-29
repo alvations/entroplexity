@@ -22,3 +22,11 @@ python perplexity.py cwi_test.txt wiki.kenlm > sent-perplexity.test
 
 python entroplexity_classify.py
 ```
+
+# Cite
+
+Jose Manuel Martinez Martinez and Liling Tan. Complex Word Identification with Sense Entropy and Sentence Perplexity. In SemEval-2016. 
+
+```
+
+```
